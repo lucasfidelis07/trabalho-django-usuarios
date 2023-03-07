@@ -7,11 +7,11 @@ usuarios = [
     },
     {
         "id": 2,
-        "nome": "Gabriel"
+        "nome": "Jackson"
     },
     {
         "id": 3,
-        "nome": "Fidelis"
+        "nome": "Sampaio Fidelis"
     },
 ]
 
