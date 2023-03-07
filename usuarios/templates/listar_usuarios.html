@@ -1,0 +1,13 @@
+<style>
+    ol li {
+    list-style: none;
+}
+</style>
+
+<h1>Usuários:</h1>
+
+<ol>
+    {% for usuario in usuarios %}
+        <li>{{usuario.id}} - {{usuario.nome}}</li>
+    {% endfor %}
+</ol>
